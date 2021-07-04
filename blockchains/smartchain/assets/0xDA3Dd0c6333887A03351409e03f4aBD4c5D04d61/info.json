@@ -1,0 +1,11 @@
+{   
+    "name": "Diamond Shiba",
+    "website": "https://www.diamondshiba.com/",
+    "description": "-",
+    "explorer": "https://www.bscscan.com/token/0xda3dd0c6333887a03351409e03f4abd4c5d04d61",
+    "type": "BEP20",
+    "symbol": "DSB",
+    "decimals": 10,
+    "status": "active",
+    "id": "0xDA3Dd0c6333887A03351409e03f4aBD4c5D04d61"
+}
